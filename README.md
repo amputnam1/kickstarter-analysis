@@ -1,6 +1,5 @@
-# kickstarter-analysis
-# Kickstarting with Excel
-Kickstarter challenge
+# An analysis of Kickstarter campaigns
+Kickstarter challenge for Module 1 of Data Analytics Bootcamp / Challenge 1
 ## Overview of Project
 A data analysis on Kickstarter data related to Louise's theater crowdfunding campaign. Excel was used to utilize the dataset and uncover findings related to 4114 campaigns from the years 2010-2017. 
 ### Purpose
